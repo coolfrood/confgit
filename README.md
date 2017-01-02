@@ -65,3 +65,9 @@ confgit push
 confgit update /etc/hosts
 confgit push
 ```
+
+TODO
+----
+* Support for encrypted files
+* Support for directories
+* `confgit restore`
